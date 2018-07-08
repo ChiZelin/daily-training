@@ -4,3 +4,5 @@
 [Singleton Pattern](/DesignPatterns/SingletonPattern)
 ### Maven
 [hello-world](/Maven/hello-world)
+### Gradle
+[HelloWorld](/Gradle/HelloWorld)
