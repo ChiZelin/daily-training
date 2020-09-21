@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="orders" class="com.czl.spring.learn.bean.Orders" init-method="intMethod" destroy-method="destry">
+        <property name="oname" value="Phone"></property>
+    </bean>
+
+    <!--  -->
+    <bean id="myBeanPost" class="com.czl.spring.learn.bean.MyBeanPost"></bean>
+</beans>

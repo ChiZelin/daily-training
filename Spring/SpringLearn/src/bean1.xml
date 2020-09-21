@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- 配置 User 对象创建 -->
+<!--    <bean id="user" class="com.czl.spring.learn.User">
+        <property name="name" value="Haha"></property>
+        <property name="age" value="18"></property>
+    </bean>-->
+    <bean id="user" class="com.czl.spring.learn.User">
+        <constructor-arg name="name" value="Haha"></constructor-arg>
+        <constructor-arg name="age" value="18"></constructor-arg>
+        <constructor-arg name="address" value="&lt;&lt;大连&gt;&gt;"></constructor-arg>
+    </bean>
+
+
+</beans>
