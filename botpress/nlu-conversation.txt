@@ -1,0 +1,16 @@
+Conversation Id: d41eeb10-e7af-4b88-b4e2-378069349ada
+Created on: 11/18/22 19:09
+User:  
+-----------------
+[11/24/22 08:05] learn-basic-robot: Would you like to look at pictures from rovers?
+[11/24/22 08:05] learn-basic-robot: There you go. Cheers from Mars!
+[11/24/22 08:05] learn-basic-robot: Event (image)
+[11/24/22 08:05] User: 2018-09-09 rover pictures
+[11/24/22 08:05] learn-basic-robot: Great, try writing something like “Show me Mars rover pictures from April first 2016"
+[11/24/22 08:05] User: No, test out the NLU first
+[11/24/22 08:05] learn-basic-robot: Would you like to look at pictures from rovers?
+[11/24/22 08:05] learn-basic-robot: **Pro tip** : See how I'm made, or build me yourself using our step by step tutorial at [botpress.com/mars-rover-tutorials](https://botpress.com/mars-rover-tutorials)!
+[11/24/22 08:05] learn-basic-robot: I'm a Mars Rover Photography Bot meant to showcase features you'll need to build your first bot!
+[11/24/22 08:05] learn-basic-robot: Hi
+[11/24/22 08:05] User: Hi
+[11/24/22 08:05] User: User visit
