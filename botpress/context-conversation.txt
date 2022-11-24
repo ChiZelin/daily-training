@@ -1,0 +1,24 @@
+Conversation Id: cfde7f01-b508-44cb-9a54-26e507fa306c
+Created on: 11/23/22 07:39
+User:  
+-----------------
+[11/24/22 07:49] welcome: Healthy giraffes live about 25 years in the wild.
+[11/24/22 07:49] User: How long can giraffes live?
+[11/24/22 07:48] welcome: I will be listening
+[11/24/22 07:48] welcome: Tell me if you need help!
+[11/24/22 07:48] welcome: Please ask questions about that animal, like its life span or its habitat.
+[11/24/22 07:48] User: Giraffe
+[11/24/22 07:48] welcome: Okay, let's use a simple example. Let's talk about animals. Pick one.
+[11/24/22 07:48] User: I want to switch animal
+[11/24/22 07:47] welcome: The lifespan of a monkey is 10 to 50 years, depending on the species.
+[11/24/22 07:47] User: What length of life can we expect from monkeys?
+[11/24/22 07:46] welcome: The lifespan of a monkey is 10 to 50 years, depending on the species.
+[11/24/22 07:46] User: How old can a monkey get?
+[11/24/22 07:45] welcome: I will be listening
+[11/24/22 07:45] welcome: Tell me if you need help!
+[11/24/22 07:45] welcome: Please ask questions about that animal, like its life span or its habitat.
+[11/24/22 07:45] User: Monkey
+[11/24/22 07:45] welcome: Okay, let's use a simple example. Let's talk about animals. Pick one.
+[11/24/22 07:45] welcome: A bot could ask questions that are similar but have different meanings. To differentiate between the meanings of these questions, we use Contexts.
+[11/24/22 07:45] User: What is a Context?
+[11/24/22 07:45] welcome: What would you like to know?
